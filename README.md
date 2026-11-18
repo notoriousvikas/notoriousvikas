@@ -29,7 +29,7 @@
 - 🎓 **Education:** 3rd Year Computer Science & Engineering (CSE) Student.
 - 💻 **Passions:** Full-stack architecture, real-time communications, and building creative web apps.
 - 🌱 **Currently Exploring:** Building a developer-first, multi-channel notification infrastructure with email, in-app, and real-time delivery.
-- 📫 **GitHub:** [@vikaskbaboria-arch](https://github.com/vikaskbaboria-arch)
+- 📫 **GitHub:** [@notoriousvikas](https://github.com/notoriousvikas)
 
 ---
 
@@ -90,12 +90,12 @@
 
 <div align="center">
 
-<a href="https://github.com/vikaskbaboria-arch">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikaskbaboria-arch&show_icons=true&theme=radical&hide_border=true" alt="GitHub Statistics" height="180" />
+<a href="https://github.com/notoriousvikas">
+  <img src="https://github-readme-stats.vercel.app/api?username=notoriousvikas&show_icons=true&theme=radical&hide_border=true" alt="GitHub Statistics" height="180" />
 </a>
 
-<a href="https://github.com/vikaskbaboria-arch">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikaskbaboria-arch&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" height="180" />
+<a href="https://github.com/notoriousvikas">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notoriousvikas&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" height="180" />
 </a>
 
 </div>
@@ -106,8 +106,8 @@
 
 <div align="center">
 
-<a href="https://github.com/vikaskbaboria-arch">
-  <img src="https://streak-stats.demolab.com?user=vikaskbaboria-arch&theme=radical&hide_border=true" alt="GitHub Contribution Streak" />
+<a href="https://github.com/notoriousvikas">
+  <img src="https://streak-stats.demolab.com?user=notoriousvikas&theme=radical&hide_border=true" alt="GitHub Contribution Streak" />
 </a>
 
 </div>
@@ -123,15 +123,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/vikaskbaboria-arch/notoriousvikas/output/commit-invaders-dark.svg"
+    srcset="https://raw.githubusercontent.com/notoriousvikas/notoriousvikas/output/commit-invaders-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/vikaskbaboria-arch/notoriousvikas/output/commit-invaders.svg"
+    srcset="https://raw.githubusercontent.com/notoriousvikas/notoriousvikas/output/commit-invaders.svg"
   />
   <img
     alt="GitHub Contribution Invaders"
-    src="https://raw.githubusercontent.com/vikaskbaboria-arch/notoriousvikas/output/commit-invaders.svg"
+    src="https://raw.githubusercontent.com/notoriousvikas/notoriousvikas/output/commit-invaders.svg"
     width="100%"
   />
 </picture>
