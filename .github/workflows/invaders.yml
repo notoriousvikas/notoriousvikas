@@ -1,4 +1,4 @@
-name: Generate Contribution Invaders
+name: Generate Tank Invaders
 
 on:
   schedule:
@@ -17,13 +17,13 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate Contribution Invaders SVG
+      - name: Generate Tank Invaders SVG
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: notoriousvikas
           outputs: |
-            dist/commit-invaders.svg
-            dist/commit-invaders-dark.svg?palette=github-dark
+            dist/tank-invaders.svg
+            dist/tank-invaders-dark.svg?palette=github-dark
 
       - name: Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
