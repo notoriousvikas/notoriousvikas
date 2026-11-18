@@ -4,7 +4,7 @@
 
 ⭐ **FULL-STACK WEB DEVELOPER** ⭐
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7DF1E¢er=true&vCenter=true&width=435&lines=%E0%A4%AB%E0%A5%81%E0%A4%B2-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%88%E0%A4%95+%E0%A4%B5%E0%A5%87%E0%A4%AC+%E0%A4%A1%E0%A5%87%E0%A4%B5%E0%A4%B2%E0%A4%AA%E0%A4%B0;Building+Scalable+Real-Time+Apps;Shipping+Code+With+Zero+Bugs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1000&amp;color=F7DF1E&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Full-stack+Web+Developer;Building+creative+web+apps" alt="Typing SVG" />
 
 <br />
 
@@ -58,6 +58,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-E11D48?style=for-the-badge&logo=bullmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
@@ -146,8 +147,7 @@
 
 <sub>Designed & Developed by <b>Vikas Baboria</b> 🚀</sub>
 
-<br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100§ion=footer" width="100%" />
+
 
 </div>
