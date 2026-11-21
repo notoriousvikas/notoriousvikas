@@ -27,8 +27,8 @@
 ## 🚀 About Me
 
 - 🎓 **Education:** 3rd Year Computer Science & Engineering (CSE) Student.
-- 💻 **Passions:** Full-stack architecture, real-time communications, and building creative web apps.
-- 🌱 **Currently Exploring:** Building a developer-first, multi-channel notification infrastructure with email, in-app, and real-time delivery.
+- 💻 **Passions:** Full-stack architecture, distributed systems, real-time communications, and building creative web apps.
+- 🌱 **Currently Building:** GetNotify — a developer-first, multi-channel notification infrastructure supporting email, SMS, and in-app notifications with background processing and scheduled delivery.
 - 📫 **GitHub:** [@notoriousvikas](https://github.com/notoriousvikas)
 
 ---
@@ -74,6 +74,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Northflank](https://img.shields.io/badge/Northflank-141414?style=for-the-badge&logo=northflank&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 ---
 
@@ -81,9 +85,16 @@
 
 | Project | Description | Stack | Live Link |
 | :--- | :--- | :--- | :--- |
+| **GetNotify** | Developer-first, multi-channel notification infrastructure with email, SMS, in-app notifications, background job processing, queues, and scheduled delivery. | `Node.js` `Express` `MongoDB` `Redis` `BullMQ` | [🚀 Live App](https://nexping.netlify.app/) |
 | **Omegle Clone** | Real-time video and text matching chat application for instant random connections. | `Socket.IO` `React` `Express` | [🚀 Live App](https://ome-x-psi.vercel.app/) |
-| **Real-Time Chat App** | College marketplace platform featuring instant communication and real-time update. | `Socket.IO` `JavaScript` `Node.js` | [🚀 Live App](https://campux-one.vercel.app/) |
-| **Movie Review Platform** | Full-stack platform to discover, rate, and review movies. | `Next.js` `React` `MongoDB` `Tailwind CSS` | [🚀 Live App](https://nac2.vercel.app/) |
+| **Real-Time Chat App** | College marketplace platform featuring instant communication and real-time updates. | `Socket.IO` `JavaScript` `Node.js` | [🚀 Live App](https://campux-one.vercel.app/) |
+| **Movie Review Platform (NAC)** | Full-stack platform to discover, rate, and review movies. | `Next.js` `React` `MongoDB` `Tailwind CSS` | [🚀 Live App](https://nac2.vercel.app/) |
+
+### ⚙️ GetNotify Infrastructure
+
+- **Frontend:** Netlify
+- **Backend API:** Render
+- **Background Worker:** Northflank
 
 ---
 
