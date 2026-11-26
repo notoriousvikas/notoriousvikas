@@ -28,9 +28,10 @@
 
 - 🎓 **Education:** 3rd Year Computer Science & Engineering (CSE) Student.
 - 💻 **Passions:** Full-stack architecture, distributed systems, real-time communications, and building creative web apps.
-- 🌱 **Currently Building:** - GetNotify — Building a multi-channel notification system supporting Email, SMS, and In-App notifications, with background job               processing, queues, and scheduled delivery.
-- MediVault — Developing a healthcare management and awareness platform focused on health information, monitoring, and location-based awareness alerts.
-- VidyaQuest — Building a gamified educational platform that makes learning more interactive through virtual labs, subject-based maps, avatars, and progress tracking.
+- 🌱 **Currently Building:**
+  - **GetNotify** — A multi-channel notification system for email, SMS, and in-app messaging, with background jobs, queues, and scheduled delivery.
+  - **MediVault** — A healthcare platform focused on health information, monitoring, and location-based awareness alerts.
+  - **VidyaQuest** — A gamified learning platform featuring virtual labs, subject-based maps, avatars, and progress tracking.
 - 📫 **GitHub:** [@notoriousvikas](https://github.com/notoriousvikas)
 
 ---
